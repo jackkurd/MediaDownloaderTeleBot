@@ -1,3 +1,4 @@
+from telethon import TelegramClient
 from telebot.async_telebot import AsyncTeleBot
 # @j4ck_721s & @j4ck_721
 from telebot.types import Message, CallbackQuery,InlineKeyboardMarkup as Keyboard, InlineKeyboardButton as Button, InputFile as File
