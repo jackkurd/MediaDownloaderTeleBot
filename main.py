@@ -10,7 +10,7 @@ from pytube import YouTube
 import os, requests, asyncio, re, urllib.request, pytube
 
 
-bot_token = "7596634175:AAH5GYsLXxCGdftUNdoGVtuw71M4N119KDg"
+bot_token = "7884570852:AAHC5R1TqwWkli5pqXYsTKTu1uXjlCk15Iw"
 
 
 app = AsyncTeleBot(
